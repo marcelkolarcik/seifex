@@ -1,1 +1,7 @@
 # seifex
+
+Before I decided to go to study coding to Code Institute in Dublin, I was hobby developer for number of years, I was learning and using Laravel framework. After my regular working hours, I would be coding during the nights. Latest of my hobby projects was an app where I was trying to create a market place for businesses in hospitality industry, where buyers(restaurants) and sellers could make a business.
+
+The Idea came from my own experience, where I could save 40 000 EUR a year just by researching market and comparing the prices of the products I was buying.
+
+I used Laravel framework along with jQuery. It was a market place where buyers could exchange product lists with sellers, who would price the products for them and then buyer could decide if to make business with them or not depending on the prices of the products. Buyers could have multiple sellers to buy from, and we would choose cheapest products and send order to sellers with those cheap prices. When placing order we would manage inventory… I used multi-auth for different types of users like buyer, seller, admin. Companies could add their own staff to the account. Choose the currencies they use and the languages they speak, and they could have product lists and price lists in several languages…+plus more features. Project is not completed as I decided to go to study coding to Code Institute in Dublin, where I’ve learnt more thing about coding, it gave me good base to give my coding proper structure. I’ve studied Git control, Mysql, MongoDb, Python , Flask and Django. 

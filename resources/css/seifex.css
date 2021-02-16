@@ -1,0 +1,124 @@
+@import url(https://fonts.googleapis.com/css?family=Nunito);/*SEIFEX SPECIFIC CSS*/
+.select_mini{
+    font-size: 12px;
+
+    border-radius:4px;
+
+
+}
+
+/*@media (min-width: 376px) {*/
+    /*#stats {*/
+        /*max-height: 140px;*/
+    /*}*/
+/*}*/
+/*@media (min-width: 576px) {*/
+    /*#stats {*/
+        /*max-height: 240px;*/
+    /*}*/
+/*}*/
+
+/*@media (min-width: 768px) {*/
+    /*#stats {*/
+        /*max-height: 340px;*/
+    /*}*/
+/*}*/
+
+/*@media (min-width: 992px) {*/
+    /*#stats {*/
+        /*max-height: 440px;*/
+    /*}*/
+/*}*/
+
+/*@media (min-width: 1200px) {*/
+    /*#stats {*/
+        /*max-height: 540px;*/
+    /*}*/
+
+/*}*/
+
+.blue_background{
+    background-color: orangered;
+    color:#f5f5f5;
+}
+.red_background{
+    background-color: orangered;
+}
+.orange_background{
+    background-color: orange;
+}
+.bottom_border{
+    border-bottom-width: thin;
+    border-bottom-style: dotted;
+}
+.light_orange_background{
+    background-color:#F0E1A1;
+}
+.swal-title {
+    margin: 0px;
+    font-size: 16px;
+    /* box-shadow: 0px 1px 1px rgba(0, 0, 0, 0.21);*/
+    margin-bottom: 20px;
+}
+.swal-text {
+    background-color: #FEFAE3;
+    padding: 17px;
+    border: 1px solid #F0E1A1;
+    display: block;
+    margin: 22px;
+    text-align: center;
+    color: #61534e;
+}
+
+.unit{
+    font-weight: 600;
+    color: #000000;
+    /*color: darkblue;*/
+}
+.unit_black{
+    font-weight: bold;
+    color: #f5f5f5;
+    background-color: #000000;
+}
+.vegForm{
+    font-size: 13px;
+    color: #000000;
+}
+.bg-red{
+    background-color: #bf5329;
+}
+.checked_1{
+    background-color: #bf5329;
+}
+.no_underline{
+    text-decoration: none;
+}
+/*table.table-bordered{
+    border:1px solid black;
+}
+
+table.table-bordered > thead > tr > th{
+    border:1px solid black;
+}
+table.table-bordered > tbody > tr > td{
+    border:1px solid black;
+}*/
+.row-eq-height {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display:         flex;
+}
+@-moz-document url-prefix() {
+    fieldset { display: table-cell; }
+}
+@charset "UTF-8";
+
+.display_none{
+    display:none;
+}
+.display_notifications{
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display:         flex;
+}
+

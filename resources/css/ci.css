@@ -1,0 +1,85 @@
+body {
+    font-size: 12px;
+}
+
+#brown.brown {
+    color: brown;
+    font-weight: 200;
+}
+
+#red.red  {
+    color: red;
+    font-weight: 700;
+}
+
+.large.normal {
+    font-size: 24px;
+}
+
+.small.normal {
+    font-size: 14px;
+}
+
+.normal {
+    font-size: 18px;
+    color: blue;
+}
+body {
+    font-size: 12px;
+}
+
+#brown.brown {
+    color: brown;
+    font-weight: 200;
+}
+
+#red.red  {
+    color: red;
+    font-weight: 700;
+}
+
+.large.normal {
+    font-size: 24px;
+}
+
+.small.normal {
+    font-size: 14px;
+}
+
+.normal {
+    font-size: 18px;
+    color: blue;
+}
+/*action="https://formdump.codeinstitute.net/" method="post"*/
+/*<section class="form-section">
+     <h2>Let's get you signed up!</h2>
+     <form action="https://formdump.codeinstitute.net/" method="post">
+
+         <label for="fname">First Name</label>
+         <input id="fname" type="text" name="first_name" required>
+
+
+        <label for="lname">Last Name</label>
+       <input id="lname" type="text" name="last_name" required>
+
+       <label for="email">Email Address</label>
+       <input id="email" type="email" name="email_address" required>
+
+       <!--radio buttons-->
+       <label for="road">Road</label>
+       <input id="road" type="radio" name="running_preference" value="road" required>
+
+        <label for="trail">Trail</label>
+       <input id="trail" type="radio" name="running_preference" value="trail">
+
+       <label for="both">Both</label>
+       <input id="both" type="radio" name="running_preference" value="both">
+
+       <input type="submit" value="Let's Run!">
+     </form>
+
+   </section> */
+/*https://www.awwwards.com/
+https://dribbble.com/
+https://alistapart.com/
+*/

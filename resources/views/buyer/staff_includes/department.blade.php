@@ -1,0 +1,1 @@
+@include('buyer.department.dashboard')
